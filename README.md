@@ -10,7 +10,7 @@ Visual Results on paper "MSViT-E2V-Efficient-frequency-aware-multiscale-vision-t
 
 ## Model Comparison
 ### Sequence of images from class poster_6dof of ECD dataset
-
+Overall our model has better reconstruction quality
 
 ![result_3](videos/results_3.png)
 ### Sequence of images from class desk of HQF dataset
