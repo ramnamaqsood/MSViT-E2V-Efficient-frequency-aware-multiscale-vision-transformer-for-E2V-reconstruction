@@ -20,7 +20,7 @@ The consecutive images shows the performance of two MSViT against two benchmark 
 ### Sequence of images from class dynamic_6dof of ECD_fast dataset
 In fast camera motion out model still reconstruct better images than ET-Net and E2VID methds.
 
-Video sequence from class office_zigzag of ECD dataset.
+### Video sequence from class office_zigzag of ECD dataset.
 ![fig_2](videos/results_1.png)
 
 
