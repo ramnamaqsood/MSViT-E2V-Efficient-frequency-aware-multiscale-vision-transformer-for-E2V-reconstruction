@@ -10,8 +10,11 @@ Visual Results on paper "MSViT-E2V-Efficient-frequency-aware-multiscale-vision-t
 
 ## Model Comparison
 ### Sequence of images from class desk of HQF dataset
+The consecutive images shows the performance of two MSViT against two benchmark methods. It can be seen that the reconstrutec images with MSViT has less goosting artifacts and more detail in images
 ![The consecutive images shows the performance of two MSViT against two benchmark methods. It can be seen that the reconstrutec images with MSViT has less goosting artifacts and more detail in images](videos/results_2.png)
-
+### Sequence of images from class dynamic_6dof of ECD_fast dataset
+In fast camera motion out model still reconstruct better images than ET-Net and E2VID methds.
+![fig_2](videos/results_1.png)
 
 
 
