@@ -3,6 +3,6 @@ Visual Results on paper "MSViT-E2V-Efficient-frequency-aware-multiscale-vision-t
 ## Model Comparison
 
 
-A|B
+ET-Net|E2VID|FireNet+|OURS
 --|--
-![](videos/ET-Net.gif)|![](videos/E2VID.gif)
+![](videos/ET-Net.gif)|![](videos/E2VID.gif)![](videos/FireNet+.gif)|![](videos/OURS.gif)
