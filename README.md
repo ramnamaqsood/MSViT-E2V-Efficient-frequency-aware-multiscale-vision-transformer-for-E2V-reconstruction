@@ -4,8 +4,8 @@ Visual Results on paper "MSViT-E2V-Efficient-frequency-aware-multiscale-vision-t
 ## To-Do List
 
 - [x] Upload Results  
-- [ ] Upload Code (Will be uploaded upon acceptance of the paper)
-- [ ] Upload Training Dataset(Will be uploaded upon acceptance of the paper)
+- [ ] Code (Will be uploaded upon acceptance of the paper)
+- [ ] Training Dataset (Will be uploaded upon acceptance of the paper)
 
 
 ## Model Comparison
