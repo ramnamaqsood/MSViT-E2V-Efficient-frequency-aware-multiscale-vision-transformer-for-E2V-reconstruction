@@ -22,7 +22,7 @@ Overall our model has better reconstruction quality
 
 ![result_3](videos/results_3.png)
 ### Sequence of images from class dynamic_6dof of ECD_fast dataset
-In fast camera motion out model still reconstruct better images than ET-Net and E2VID methds.
+In fast camera motion our model still reconstruct better images than ET-Net and E2VID methds.
 
 ![fig_2](videos/results_1.png)
 
