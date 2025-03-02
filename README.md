@@ -10,7 +10,7 @@ Visual Results on paper "MSViT-E2V-Efficient-frequency-aware-multiscale-vision-t
 
 ## Model Comparison
 ### Sequence of images from class bike_bay of HQF dataset
-The consecutive images shows that MSViT can reconstruct teaxuatl details more efficiently than two SOTA methods. 
+The consecutive images shows that MSViT can reconstruct texuatl details more efficiently than SOTA methods. 
 
 ![](videos/result_bike_bay.png)
 ### Sequence of images from class desk of HQF dataset
