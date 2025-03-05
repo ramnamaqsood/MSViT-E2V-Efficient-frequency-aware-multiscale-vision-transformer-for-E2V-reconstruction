@@ -18,9 +18,9 @@ The consecutive images shows the performance of  MSViT-E2V (Ours) against two be
 
 ![](videos/desk_output.png)
 ### Sequence of images from class poster_6dof of ECD dataset
-Overall our model has better reconstruction quality
+Overall our model has better reconstruction quality.
 
-![result_3](videos/results_3.png)
+![result_3](videos/poster_6dof.png)
 ### Sequence of images from class dynamic_6dof of ECD_fast dataset
 In fast camera motion our model still reconstruct better images than ET-Net and E2VID methds.
 
