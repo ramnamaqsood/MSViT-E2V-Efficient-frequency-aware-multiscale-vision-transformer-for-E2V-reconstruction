@@ -10,11 +10,11 @@ Visual Results on paper "MSViT-E2V: Efficient frequency-aware multiscale vision 
 
 ## Model Comparison
 ### Sequence of images from class bike_bay of HQF dataset
-The consecutive images shows that MSViT can reconstruct textual details more efficiently than SOTA methods. 
+The consecutive images shows that MSViT-E2V (Ours) can reconstruct textual details more efficiently than SOTA methods. 
 
 ![](videos/result_bike_bay.png)
 ### Sequence of images from class desk of HQF dataset
-The consecutive images shows the performance of two MSViT against two benchmark methods. It can be seen that the reconstrutec images with MSViT has less goosting artifacts and more detail in images
+The consecutive images shows the performance of  MSViT-E2V (Ours) against two benchmark methods. It can be seen that the reconstruted images with our method has less goosting artifacts and more details.
 
 ![](videos/desk_output.png)
 ### Sequence of images from class poster_6dof of ECD dataset
