@@ -16,7 +16,7 @@ The consecutive images shows that MSViT can reconstruct textual details more eff
 ### Sequence of images from class desk of HQF dataset
 The consecutive images shows the performance of two MSViT against two benchmark methods. It can be seen that the reconstrutec images with MSViT has less goosting artifacts and more detail in images
 
-![The consecutive images shows the performance of two MSViT against two benchmark methods. It can be seen that the reconstrutec images with MSViT has less goosting artifacts and more detail in images](videos/results_2.png)
+![](videos/desk_output.png)
 ### Sequence of images from class poster_6dof of ECD dataset
 Overall our model has better reconstruction quality
 
@@ -24,7 +24,7 @@ Overall our model has better reconstruction quality
 ### Sequence of images from class dynamic_6dof of ECD_fast dataset
 In fast camera motion our model still reconstruct better images than ET-Net and E2VID methds.
 
-![fig_2](videos/results_1.png)
+![fig_2](videos/dynamic.png)
 
 
 ### Video sequence from class office_zigzag of ECD dataset.
